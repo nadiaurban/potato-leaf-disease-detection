@@ -34,5 +34,5 @@ The app detects three types of potato leaf conditions:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/student-app-template.git
+   git clone https://github.com/<your-username>/potato-leaf-disease-detection.git
    cd student-app-template
