@@ -1,0 +1,2 @@
+0 Brain tumor
+1 No brain tumor
